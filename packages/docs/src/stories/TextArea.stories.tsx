@@ -1,6 +1,6 @@
 import { Meta, StoryObj } from '@storybook/react'
 
-import { TextArea, TextAreaProps } from '@ignite-ui/react'
+import { TextArea, TextAreaProps } from '@pfluck-ignite-ui/react'
 
 export default {
   title: 'Form/TextArea',
