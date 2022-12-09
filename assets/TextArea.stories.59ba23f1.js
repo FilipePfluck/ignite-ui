@@ -1,0 +1,2 @@
+import{b as r}from"./index.930ead8f.js";import"./index.2fbec65c.js";import"./iframe.8d601733.js";import"./index.3d4f5993.js";import"./jsx-runtime.7257361d.js";const i={title:"Form/TextArea",component:r},m={args:{placeholder:"type your name"}},p={args:{disabled:!0}},d=["Primary","Disabled"];export{p as Disabled,m as Primary,d as __namedExportsOrder,i as default};
+//# sourceMappingURL=TextArea.stories.59ba23f1.js.map
